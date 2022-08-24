@@ -9,7 +9,7 @@ The game theoretic protection model is based upon Wan et al.'s Re-identification
 
 This code is partially based on our conference paper:
 
-[0] A. Gourabathina, Z. Wan, J. T. Brown, C. Yan, B. A. Malin. Privacy-Preserving Publishing of Individual-Level Pandemic Data Based on a Game Theoretic Model (under review).
+[0] A. Gourabathina, Z. Wan, J. T. Brown, C. Yan, and B. A. Malin. Privacy-Preserving Publishing of Individual-Level Pandemic Data Based on a Game Theoretic Model (under review).
 
 Other published articles essential for understanding the software are as follows:
 
