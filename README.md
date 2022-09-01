@@ -7,13 +7,13 @@ The game theoretic protection model is based upon Wan et al.'s Re-identification
 
 ## Usage:
 
-The main program is "gamemodel_release.py". The programs for baselines are "noprotection_release.py", "dynamic_release.py", "cdc_release.py".
+The main program is "game_release.py". The programs for baselines are "noprotection_release.py", "dynamic_release.py", "cdc_release.py".
 
 Note:
 
 The cdc policy is obtained by using software ARX, a data anonymization tool (https://arx.deidentifier.org/).
 
-The dynamic policy is obtained by using the "gamemodel_release.py" by setting the parameter COST to 0.
+The dynamic policy is obtained by using the "game_release.py" by setting the parameter COST to 0.
 
 ## References:
 
