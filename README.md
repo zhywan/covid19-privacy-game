@@ -1,7 +1,7 @@
-# Privacy-Preserving COVID-19 Data Publishing Game Solver
+# Privacy-Preserving COVID-19 Data Publishing Game
 
 ## Description:
-This program, Privacy-Preserving COVID-19 Data Publishing Game Solver (CRIGS), finds the best solution for sharing individual-level COVID-19 case surveillance data, under an economically motivated adversary's re-identification attack based on a two-player Stackelberg game model named COVID-19 Re-Identification Game (CRIG). The attack is introduced by Sweeney in 2000 [1]. The adversary re-identifies the target with the help of a public demographic dataset (e.g., a voter registration list) by linking upon demographic attributes (e.g., year of birth and state of residence).
+This program, COVID-19 Re-Identification Game Solver (CRIGS), finds the best solution for sharing individual-level COVID-19 case surveillance data, under an economically motivated adversary's re-identification attack based on a two-player Stackelberg game model named COVID-19 Re-Identification Game (CRIG). The attack is introduced by Sweeney in 2000 [1]. The adversary re-identifies the target with the help of a public demographic dataset (e.g., a voter registration list) by linking upon demographic attributes (e.g., year of birth and state of residence).
 
 The game theoretic protection model is based upon Wan et al.'s Re-identification Game introduced in 2015 [2] and Wan et al.'s Multi-Stage Re-Identification Game (MSRIG) introduced in 2021 [3]. Two players in the game are a data subject and an adversary. The adversary's strategy is either to attack or not to attack, for each target. The data subject's strategy space is dependent upon specific scenarios in consideration.
 
