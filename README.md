@@ -13,7 +13,7 @@ Note:
 
 The cdc policy is obtained by using software ARX, a data anonymization tool (https://arx.deidentifier.org/).
 
-The dynamic policy is obtained by using the "game_release.py" by setting the parameter COST to 0.
+The dynamic policy is obtained by using the "game_release.py" and setting the parameter COST to 0.
 
 ## References:
 
