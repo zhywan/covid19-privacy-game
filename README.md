@@ -27,4 +27,4 @@ Other published articles essential for understanding the software are as follows
 
 [2] Z. Wan, Y. Vorobeychik, W. Xia, E. W. Clayton, M. Kantarcioglu, R. Ganta, R. Heatherly, and B. A. Malin. A game theoretic framework for analyzing re-identification risk. PloS one, 10(3): e0120592, 2015.
 
-[3] Z. Wan, Y. Vorobeychik, W. Xia, Y. Liu, M. Wooders, J. Guo, Z. Yin, E. W. Clayton, M. Kantarcioglu, and B. A. Malin. Using game theory to thwart multistage privacy intrusions when sharing data. Sci. Adv. 7, eabe9986 (2021).
+[3] Z. Wan, Y. Vorobeychik, W. Xia, Y. Liu, M. Wooders, J. Guo, Z. Yin, E. W. Clayton, M. Kantarcioglu, and B. A. Malin. Using game theory to thwart multistage privacy intrusions when sharing data. Sci. Adv. 7, eabe9986, 2021.
