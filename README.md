@@ -9,6 +9,8 @@ The game theoretic protection model is based upon Wan et al.'s Re-identification
 
 The main program is "game_release.py". The programs for baselines are "noprotection_release.py", "dynamic_release.py", "cdc_release.py". Use "plot_release.py" to plot results figures in the paper [0].
 
+Example datasets in data folder are fake data with the same format and size with the original dataset. The original datasets can not be published. Contact authors for original datasets. The patient dataset contains 9632 patients (records) and 4 attributes: year of birth, gender, 5-digit ZIP code, and test date. The popoulation dataset contains 337681 voters (records) and 5 attributes: Year of birth, gender, race, ethinicity, and 5-digit ZIP code.
+
 Note:
 
 The cdc policy is obtained by using software ARX, a data anonymization tool (https://arx.deidentifier.org/).
