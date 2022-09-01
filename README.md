@@ -7,7 +7,7 @@ The game theoretic protection model is based upon Wan et al.'s Re-identification
 
 ## Usage:
 
-The main program is "game_release.py". The programs for baselines are "noprotection_release.py", "dynamic_release.py", "cdc_release.py".
+The main program is "game_release.py". The programs for baselines are "noprotection_release.py", "dynamic_release.py", "cdc_release.py". Use "plot_release.py" to plot results figures in the paper [0].
 
 Note:
 
