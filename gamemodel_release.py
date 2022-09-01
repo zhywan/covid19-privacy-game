@@ -15,11 +15,11 @@ import os.path
 TIME_STEP = 1  # frequency of the data publication in terms of the number of days
 #FIRST_DATE = "3/10/2020"  # first day in the patient dataset
 BENEFIT = 10  # benefit for sharing each record # $2,000,000,000/333,000,000(US population)/7.8%(positivity rate from tests)
-LOSS = 300  # loss for an attack for each record (326)
+LOSS = 500  # loss for an attack for each record (326)
 COST = 1  # cost to attack each record
 MAX_LEVELS = np.array([5, 1, 2])  # maximal generalization level for each QID
 N_BUFFER_DAYS = 21
-Result_folder = "Results20220817_game_9632_mi"
+Result_folder = "Results_game_9632_mi"
 Previous_Result_folder = "Results20220419_optimized/"
 ATTRIBUTE_NAMES = ['year_of_birth', 'cde_gender', 'text_res_zip5']
 RAND_NUM = 0
