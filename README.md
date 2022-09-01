@@ -35,7 +35,7 @@ Other published articles essential for understanding the software are as follows
 
 CRIGS is a free software; you can redistribute it or modify it under the terms of the GNU General Public License. 
 
-CRIGS is distributed in the hope that it will be useful, but without any warranty. To use it in your research, please cite our journal paper under review (mentioned above).
+CRIGS is distributed in the hope that it will be useful, but without any warranty. To use it in your research, please cite our paper under review [0] (mentioned above).
 
 ## Authors:
 
