@@ -5,6 +5,12 @@ This program finds the best solution for sharing individual-level COVID-19 case 
 
 The game theoretic protection model is based upon Wan et al.'s Re-identification Game introduced in 2015 [2] and Wan et al.'s Multi-Stage Re-Identification Game (MSRIG) introduced in 2021 [3]. Two players in the game are a data subject and an adversary. The adversary's strategy is either to attack or not to attack, for each target. The data subject's strategy space is dependent upon specific scenarios in consideration.
 
+Note:
+
+The cdc policy is obtained by using software ARX, a data anonymization tool (https://arx.deidentifier.org/).
+
+The dynamic policy is obtained by using the gamemodel.py by setting the parameter COST to 0.
+
 ## References:
 
 This code is partially based on our conference paper:
