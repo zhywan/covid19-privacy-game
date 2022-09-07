@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-# 8/2/2021 Add the game component, find the optimal policy (same policy for each day)
-# 4/30/2021 Add mutual information
-# 5/1/2021 Remove the game component
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
